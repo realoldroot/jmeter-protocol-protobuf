@@ -1,1 +1,1 @@
-nothing
+Jmeter不支持protobuf消息，想自己实现一种便捷上传序列化消息的功能。
